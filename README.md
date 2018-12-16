@@ -3,14 +3,14 @@ Blockchain DApp Platform Comparison Sheet
 
 ## FAQ
 
-### Why isn't ____ listed here?
+#### Why isn't ____ listed here?
 
 We currently only show DApp platforms with at least 1 MIL volume(24hr).
 As for DApps, we only show DApps with the most users.
 
 We are currently accepting pull requests to add new platform listings.
 
-### What order are these in?
+#### What order are these in?
 
 Our goal is to list them by number of active users. Although some coins/tokens/DApps lack proper statistics.
 
