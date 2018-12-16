@@ -1,2 +1,2 @@
-# Blockchain-Comparison
+# Blockchain Comparison Chart
 Blockchain DApp Platform Comparison Sheet
