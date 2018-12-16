@@ -1,4 +1,4 @@
-# Blockchain Comparison Chart
+# V2.1 Blockchain Comparison Chart
 Blockchain DApp Platform Comparison Sheet
 
 ## FAQ
